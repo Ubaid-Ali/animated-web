@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
         backgroundColor: 'rgba(0, 0, 0, 0.5)',
         display: 'flex',
         justifyContent: 'center',
-        padding: '1%',
+        padding: '5% 0',
     },
 
     grid2: {

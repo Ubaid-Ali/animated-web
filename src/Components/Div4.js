@@ -22,6 +22,7 @@ const useStyles = makeStyles((theme) => ({
     },
     imgs: {
         backgroundColor: 'rgba(0, 0, 0, 0.5)',
+        padding: '5% 0',
     },
     img: {
         backgroundColor: 'rgba(150, 150, 150, 0.1)',
