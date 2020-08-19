@@ -8,7 +8,7 @@ AOS.init();
 const Footer = () => {
     return (
         <div className='footer-div' 
-        data-aos="fade-in"
+        data-aos="zoom-in"
         data-aos-delay="500"
         data-aos-duration="1000"
         data-aos-easing="ease-in-out"
